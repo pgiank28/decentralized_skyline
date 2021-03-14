@@ -19,5 +19,5 @@ total skyline,considering the fact that there can't be a skyline point in the hu
 
 ![ppp](https://user-images.githubusercontent.com/17511966/111072179-11245080-84e2-11eb-8f90-0b398c620752.png)
 
-```Input: Mapper1=[[0,2],[1,2],[1,1],[1,4]]  Mapper2=[[3,2],[3,3]]```\
-```Output: skyline_points=[[0,2],[1,2],[1,1],[3,2],[3,3],[1,4]]```
+```Input: Mapper1=[[0,2],[1,2],[1,1],[4,1]]  Mapper2=[[2,3],[3,3]]```\
+```Output: skyline_points=[[0,2],[1,2],[1,1],[2,3],[3,3],[4,1]]```
